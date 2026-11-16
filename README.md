@@ -2,7 +2,11 @@
 
 I build Shopify apps from start to finish, and I customize and fix Shopify stores. I have built 9 Shopify apps so far. One of them, **Sheetwell**, passed Shopify's App Store review and is live on the Shopify App Store.
 
-[![Sheetwell on the Shopify App Store: a catalog PDF where buyers add products to the cart](sheetwell-live.webp)](https://apps.shopify.com/sheetwell)
+[![Vendkit: Shopify apps, theme customization, bug fixes and launch films](vendkit-loop.webp)](https://vendkitapps.com)
+
+### Watch the 1-minute showreel (with sound)
+
+VIDEO_HERE
 
 ### Apps I have built
 
