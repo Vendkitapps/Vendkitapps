@@ -6,7 +6,7 @@ I build Shopify apps from start to finish, and I customize and fix Shopify store
 
 ### Watch the 1-minute showreel (with sound)
 
-VIDEO_HERE
+https://github.com/user-attachments/assets/b3a3fb0a-c6d2-4c24-a7f2-c9c704c694bb
 
 ### Apps I have built
 
